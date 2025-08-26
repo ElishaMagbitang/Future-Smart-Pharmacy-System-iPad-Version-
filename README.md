@@ -31,3 +31,7 @@ The iPad version provides a balanced experience between mobile convenience and d
 # File
 
 [📱 iPad Version (PDF)](./Future%20Smart%20Pharmacy%20System-IPADv.pdf)
+
+# iPad Preview
+
+![iPad Preview](./fsps-ipad.png)
